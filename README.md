@@ -19,5 +19,5 @@ Este projeto é uma aplicação simples desenvolvida com a biblioteca Flet que a
    python nome_do_arquivo.py
 
 
->[![Assista ao vídeo](https://img.youtube.com/vi/z2BRosKdAPE/mqdefault.jpg)](https://youtu.be/z2BRosKdAPE)
+<!-- [![Assista ao vídeo](https://img.youtube.com/vi/z2BRosKdAPE/mqdefault.jpg)](https://youtu.be/z2BRosKdAPE) -->
 
