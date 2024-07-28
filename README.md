@@ -17,3 +17,6 @@ Este projeto é uma aplicação simples desenvolvida com a biblioteca Flet que a
 2. **Execute a aplicação**:
    ```bash
    python nome_do_arquivo.py
+
+
+[![Assista ao vídeo](https://img.youtube.com/vi/)](https://youtu.be/z2BRosKdAPE)
